@@ -62,11 +62,6 @@ I’m a passionate software engineer specializing in full-stack web development,
 
 ---
 
-## :zap: Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -75,6 +70,15 @@ I’m a passionate software engineer specializing in full-stack web development,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSamDG&layout=compact&theme=radical" alt="Top Langs" height="160">
 </p>
 
+
+## :zap: Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JSamDG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ---
 
 ### 📫 Let's Connect!
@@ -82,9 +86,3 @@ I’m a passionate software engineer specializing in full-stack web development,
 - 📧 Email: [javier.samaniegoDG@gmail.com](mailto:javier.samaniegoDG@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/javier-alberto-samaniego-de-gracia-21a3a2244](https://linkedin.com/in/javier-alberto-samaniego-de-gracia-21a3a2244)  
 - 🌐 Portfolio: Coming soon... 🚧
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JSamDG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
