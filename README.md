@@ -63,10 +63,10 @@ I’m a passionate software engineer specializing in full-stack web development,
 ---
 
 ### :zap: Recent Activity
-<!-- START_SECTION:ativity  -->
+<!-- RECENT_ACTIVITY:start  -->
 
+<!-- RECENT_ACTIVITY:end  -->
 
-<!-- END_SECTION:activity  -->
 
 <!-- RECENT_ACTIVITY:last_update -->
 
