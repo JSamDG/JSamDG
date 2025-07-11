@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Update recent GitHub activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        with:
+          GH_USERNAME: JSamDG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
