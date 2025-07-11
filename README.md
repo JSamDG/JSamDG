@@ -62,10 +62,10 @@ I’m a passionate software engineer specializing in full-stack web development,
 
 ---
 
-### :zap: Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+## :zap: Recent GitHub Activity
 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ### 📊 GitHub Stats
 
