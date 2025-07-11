@@ -79,7 +79,6 @@ I’m a passionate software engineer specializing in full-stack web development,
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JSamDG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
----
 
 ### 📫 Let's Connect!
 
