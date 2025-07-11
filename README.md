@@ -37,7 +37,6 @@ I’m a passionate software engineer specializing in full-stack web development,
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-
 **Databases & Tools:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,6 +61,17 @@ I’m a passionate software engineer specializing in full-stack web development,
 - 🌐 **[Interactive Web App](#)** – Full-stack CRUD using React, Node.js, and MongoDB.
 
 ---
+
+### :zap: Recent Activity
+<!-- START_SECTION:ativity  -->
+
+
+<!-- END_SECTION:activity  -->
+
+<!-- RECENT_ACTIVITY:last_update -->
+
+<!-- RECENT_ACTIVITY:last_update_end  -->
+
 
 ### 📊 GitHub Stats
 
