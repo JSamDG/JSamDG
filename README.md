@@ -78,7 +78,15 @@ I’m a passionate software engineer specializing in full-stack web development,
 ## :zap: Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+5. <br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Saturday, July 12th, 2025, 12:55:09 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JSamDG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
